@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![Mexaelb github stats](https://github-readme-stats.vercel.app/api?username=Mexaelb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Mexaelb Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mexaelb&layout=compact&count_private=true&theme=gruvbox)
